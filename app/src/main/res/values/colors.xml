@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // Primary Colors
+    <color name="colorPrimary">#333959</color>
+    <color name="colorPrimaryDark">#272940</color>
+    <color name="colorPrimaryLight">#49537A</color>
+
+    // Secondary/Accent color
+    <color name="colorSecondary">#333959</color>
+    <color name="colorAccent">#333959</color>
+<!--    <color name="colorSecondaryVariant">#FF8A80</color> -->
+
+    // Surface Colors
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorSurfaceLight">#FFFFFF</color>
+    <color name="colorSurfaceDark">#F5F5F5</color>
+    <color name="colorSurfaceScrim">#ef9a9a</color> // colorPrimary200
+
+    <!--Error color-->
+    <color name="colorError">#C51162</color>
+
+    // Black Colors (Text OnSurface AND OnPrimary #50-600)
+    <color name="colorHighEmphasisBlack">#DE000000</color> // 87% Opaque Black
+    <color name="colorMediumEmphasisBlack">#99000000</color> // 60% Opaque Black
+    <color name="colorDisabledBlack">#61000000</color> // 38% Opaque Black
+
+    // White Colors ( Text OnPrimary #700-900)
+    <color name="colorHighEmphasisWhite">#FFFFFF</color> // 100% Opaque White
+    <color name="colorMediumEmphasisWhite">#99FFFFFF</color> // 60% Opaque White
+    <color name="colorDisabledWhite">#61FFFFFF</color> // 38% Opaque White
+
+    // Background color of QR code image
+
+    <color name="colorBackgroundQRcodeImage">#EBEBEB</color>
+
+
+</resources>
