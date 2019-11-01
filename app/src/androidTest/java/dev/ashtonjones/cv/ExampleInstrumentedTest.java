@@ -1,4 +1,4 @@
-package dev.ashtonjones.website;
+package dev.ashtonjones.cv;
 
 import android.content.Context;
 
